@@ -1,16 +1,17 @@
 === Plugin Name ===
 Contributors: DA
-Donate link: http://www.chillnite.com/
+Donate link: http://www.chillnite.com/wordpress-plugin-show-posts-by-selective-category
 Tags: posts, categories
 Requires at least: 2.3.0
 Tested up to: 2.3
 Stable tag: 1.0
 
-A plugin to show specific number of posts from a selective category, using [pbc=CategoryID count=num_of_categories] tag
+A plugin to show specific number of posts from a selective category, using [pbc=CategoryID count=num_of_posts] tag
 
 == Description ==
 
 This plugin will allow you to show specific number of posts from a selective category. To use this plugin, you have to place a tag in the following format in your posts or pages:
+[pbc=CategoryID count=num_of_posts]
 
 Example
 

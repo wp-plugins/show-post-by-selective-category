@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Show Posts By Selective Category
-Plugin URI: http://www.chillnite.com
-Description: [WP 2.3.x] Displays a list of the post titles in a selected category. Use [pbc=CategoryId count=num_of_categories] format.
+Plugin URI: http://www.chillnite.com/wordpress-plugin-show-posts-by-selective-category
+Description: [WP 2.3.x] Displays a list of the post titles in a selected category. Use [pbc=CategoryId count=num_of_posts] format.
 Author: -DA-
 Version: 1.0
 Author URI: http://www.chillnite.com
